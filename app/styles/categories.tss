@@ -1,0 +1,7 @@
+"#category_scroll_view": {
+    height: Ti.UI.FILL,
+    width: Ti.UI.FILL,
+    top: 0,
+    left: 0,
+    layout: 'vertical'
+}

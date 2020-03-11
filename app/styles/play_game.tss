@@ -1,0 +1,57 @@
+".card-selection-view": {
+    width: Ti.UI.FILL,
+    height: '30%',
+    top: '5%',
+    layout: 'horizontal'
+}
+
+".unselected-attribute-card-view": {
+    width: '30%',
+    height: '95%',
+    top: '5%',
+    left: '2.5%',
+    paddingLeft: '2.5%',
+    paddingRight: '2.5%',
+    borderColor: Alloy.Globals.COLOR_BLACK,
+    borderWidth: '15px'
+}
+
+".unselected-character-card-view": {
+    width: '30%',
+    height: '95%',
+    top: '5%',
+    left: '2.5%',
+    borderColor: Alloy.Globals.COLOR_WHITE,
+    borderWidth: '15px'
+}
+
+".selected-card-view": {
+    width: '30%',
+    height: '95%',
+    top: '5%',
+    left: '2.5%',
+    borderColor: Alloy.Globals.COLOR_CLEAR_LIGHT_BLUE,
+    borderWidth: '15px'
+}
+
+".card-label": {
+    top: '5%',
+    left: '5%',
+    width: '90%',
+    height: Ti.UI.SIZE,
+    maxLines: 5,
+    font: {
+        fontSize: Alloy.Globals.FONT_SIZE_MEDIUM
+    }
+}
+
+"#submit_button": {
+    width: '95%',
+    height: Ti.UI.SIZE,
+    top: '5%',
+    left: '2.5%',
+    font: {
+        fontSize: Alloy.Globals.FONT_SIZE_LARGE
+    },
+    textid: 'submit'
+}

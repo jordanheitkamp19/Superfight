@@ -1,0 +1,61 @@
+[{
+	"id": 1,
+	"name": "10 stories tall",
+	"deck": "original",
+	"color": "#000000",
+	"textColor": "#ffffff"
+}, {
+	"id": 2,
+	"name": "3 of them",
+	"deck": "original",
+	"color": "#000000",
+	"textColor": "#ffffff"
+}, {
+    "id": 3,
+    "name": "Pacifist",
+    "deck": "original",
+    "color": "#000000",
+    "textColor": "#ffffff"
+}, {
+    "id": 4,
+    "name": "Extremely intelligent",
+    "deck": "original",
+    "color": "#000000",
+    "textColor": "#ffffff"
+}, {
+    "id": 5,
+    "name": "Actually an alien",
+    "deck": "adult",
+    "color": "#000000",
+    "textColor": "#ffffff"
+}, {
+    "id": 6,
+    "name": "Donald Trumps hair",
+    "deck": "original",
+    "color": "#000000",
+    "textColor": "#ffffff"
+}, {
+    "id": 7,
+    "name": "Rich",
+    "deck": "original",
+    "color": "#000000",
+    "textColor": "#ffffff"
+}, {
+    "id": 8,
+    "name": "Can only die by beheading",
+    "deck": "adult",
+    "color": "#000000",
+    "textColor": "#ffffff"
+}, {
+    "id": 9,
+    "name": "Has a golf club",
+    "deck": "adult",
+    "color": "#000000",
+    "textColor": "#ffffff"
+}, {
+    "id": 10,
+    "name": "Has five arms",
+    "deck": "original",
+    "color": "#000000",
+    "textColor": "#ffffff"
+}]

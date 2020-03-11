@@ -1,0 +1,61 @@
+[{
+	"id": 1,
+	"name": "Iron Man",
+	"deck": "original",
+	"color": "#ffffff",
+	"textColor": "#000000"
+}, {
+	"id": 2,
+	"name": "Batman",
+	"deck": "original",
+	"color": "#ffffff",
+	"textColor": "#000000"
+}, {
+    "id": 3,
+    "name": "Rayquaza",
+    "deck": "original",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 4,
+    "name": "Pikachu",
+    "deck": "original",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 5,
+    "name": "Queen",
+    "deck": "adult",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 6,
+    "name": "Mario",
+    "deck": "original",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 7,
+    "name": "Link",
+    "deck": "original",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 8,
+    "name": "Your Mom",
+    "deck": "adult",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 9,
+    "name": "Conan",
+    "deck": "adult",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 10,
+    "name": "Darth Vader",
+    "deck": "original",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}]

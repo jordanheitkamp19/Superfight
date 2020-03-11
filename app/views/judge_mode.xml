@@ -1,0 +1,16 @@
+<Alloy>
+	<Window id="judge_mode" class="container">
+		<View id="header_content" class="header-widget-container"/>
+		<View id="card_view" class="container">
+			<View id="judge_mode_background">
+			<View id="challenge_card_view" class="vertical-card-view">
+				<Label id="challenge_card_label"/>
+			</View>
+			<View id="location_card_view" class="vertical-card-view">
+				<Label id="location_card_label"/>
+			</View>
+			</View>
+		</View>
+		<Require id="downloading_overlay" src="downloading_overlay" type="view" />
+	</Window>
+</Alloy>

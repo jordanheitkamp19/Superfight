@@ -1,0 +1,61 @@
+[{
+	"id": 1,
+	"name": "Dodgeball - teams of 5",
+	"deck": "original",
+	"color": "#ffff99",
+	"textColor": "#000000"
+}, {
+	"id": 2,
+	"name": "Baseball - teams of 9",
+	"deck": "original",
+	"color": "#ffff99",
+	"textColor": "#000000"
+}, {
+    "id": 3,
+    "name": "Golf",
+    "deck": "original",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 4,
+    "name": "Super Smash Bros.",
+    "deck": "original",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 5,
+    "name": "Sitting still",
+    "deck": "adult",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 6,
+    "name": "Computer rogramming",
+    "deck": "original",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 7,
+    "name": "Singing",
+    "deck": "original",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 8,
+    "name": "Best teacher",
+    "deck": "adult",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 9,
+    "name": "Worst role model",
+    "deck": "adult",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 10,
+    "name": "Working a 9-5 job",
+    "deck": "original",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}]

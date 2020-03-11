@@ -1,0 +1,13 @@
+<Alloy>
+	<Window class="container" id="settings">
+		<View id="header_content" class="header-widget-container"/>
+		<View id="app_data">
+			<Label id="version"/>
+			<Button id="reset_data_button" titleid="reset_app_data"/>
+		</View>
+		<ScrollView id="settings_scroll_view">
+			
+		</ScrollView>
+		<Require id="downloading_overlay" type="view" src="downloading_overlay"/>
+	</Window>
+</Alloy>

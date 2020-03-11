@@ -1,0 +1,12 @@
+{
+    "global": {},
+    "env:development": {},
+    "env:test": {},
+    "env:production": {},
+    "os:android": {},
+    "os:ios": {},
+    "os:windows": {},
+    "dependencies": {
+        "header_widget": "1.0"
+    }
+}

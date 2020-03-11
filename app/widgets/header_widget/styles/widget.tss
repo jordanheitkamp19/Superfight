@@ -1,0 +1,23 @@
+"#home_button": {
+    left: '5%',
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE,
+    font: {
+        fontSize: Alloy.Globals.TEXT_SIZE_MEDIUM
+    },
+    title: 'Home'
+}
+
+"#settings_button": {
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE,
+    right: '5%',
+    backgroundColor: Alloy.Globals.COLOR_CLEAR
+}
+
+"#header_container": {
+    top: 0,
+    width: Ti.UI.FILL,
+    height: '80dp',
+    backgroundColor: Alloy.Globals.COLOR_BLACK
+}

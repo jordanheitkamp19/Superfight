@@ -1,0 +1,17 @@
+"#judge_mode_background": {
+    backgroundColor: Alloy.Globals.COLOR_DARK_GRAY,
+    layout: 'vertical',
+    height: Ti.UI.FILL,
+    width: Ti.UI.FILL
+}
+
+".vertical-card-view" : {
+    width: '90%',
+    height: '25%',
+    top: '5%',
+    left: '5%'
+}
+
+".orient-vertical": {
+    layout: 'vertical'
+}

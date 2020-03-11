@@ -1,0 +1,6 @@
+<Alloy>
+    <View id="header_container">
+        <Button id="home_button"/>
+        <ImageView id="settings_button"/>
+    </View>
+</Alloy>

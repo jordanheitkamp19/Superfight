@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		<View id="header_content" class="header-widget-container"/>
+		<ScrollView id="category_scroll_view">
+		</ScrollView>
+		<Require id="downloading_overlay" src="downloading_overlay" type="view" />
+	</Window>
+</Alloy>

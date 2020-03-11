@@ -1,0 +1,21 @@
+
+".vertical-card-view" : {
+    width: '90%',
+    height: '25%',
+    top: '5%',
+    left: '5%'
+}
+
+".orient-vertical": {
+    layout: 'vertical'
+}
+
+".long-card-layout": {
+    color: Alloy.Globals.COLOR_WHITE,
+    font: {
+        fontSize: Alloy.Globals.TEXT_SIZE_LARGE
+    },
+    alignment: Ti.UI.TEXT_ALIGNMENT_CENTER,
+    verticalAlign: Ti.UI.TEXT_VERTICAL_ALIGNMENT_CENTER,
+    maxLines: 3
+}

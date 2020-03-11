@@ -1,0 +1,5 @@
+<Alloy>
+    <View id="downloading_overlay_container">
+        <ImageView id="downloading_image_view"/>
+    </View>
+</Alloy>

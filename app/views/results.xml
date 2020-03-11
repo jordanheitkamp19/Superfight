@@ -1,0 +1,17 @@
+<Alloy>
+	<Window id="results" class="container">
+		<View id="header_content" class="header-widget-container"/>
+		<View id="card_view" class="container orient-vertical">
+			<View id="character_card_view" class="vertical-card-view">
+				<Label id="character_card_label" class="long-card-layout"/>
+			</View>
+			<View id="chosen_attribute_card_view" class="vertical-card-view">
+				<Label id="chosen_attribute_card_label" class="long-card-layout"/>
+			</View>
+			<View id="random_attribute_card_view" class="vertical-card-view">
+				<Label id="random_attribute_card_label" class="long-card-layout"/>
+			</View>
+		</View>
+		<Require id="downloading_overlay" src="downloading_overlay" type="view" />
+	</Window>
+</Alloy>

@@ -1,0 +1,16 @@
+<Alloy>
+    <Window id="index" class="container">
+        <View id="header_content" class="header-widget-container"/>
+        <ScrollView id="index_scroll_view">
+            <View id="play_mode_view" class="mode-container-view">
+                <ImageView id="play_game_image_view" class="mode-image-view"/>
+                <Label id="play_game_label" class="mode-label" text="L( 'play_game' )"/>
+            </View>
+            <View id="judge_mode_view" class="mode-container-view">
+                <ImageView id="judge_game_image_view" class="mode-image-view"/>
+                <Label id="judge_mode_label" class="mode-label" text="L( 'judge_mode' )"/>
+            </View>
+        </ScrollView>
+        <Require id="downloading_overlay" src="downloading_overlay" type="view" />
+    </Window>
+</Alloy>

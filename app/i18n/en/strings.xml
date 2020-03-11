@@ -1,0 +1,16 @@
+<resources>
+    <string name="device_offline">Updates could not be pulled because your device is offline.</string>
+    <string name="enabled_adult">Adult Enabled</string>
+    <string name="enabled_challenges">Challenges Enabled</string>
+    <string name="enabled_locations">Locations Enabled</string>
+    <string name="home">Home</string>
+    <string name="judge_mode">Judge Mode</string>
+    <string name="play_game">Play Superfight</string>
+    <string name="please_select_attribute">Please select an attribute</string>
+    <string name="please_select_character">Please select a character</string>
+    <string name="reset_app_data">Reset App Data</string>
+    <string name="reset_data_message">Are you sure you want to reset app data? If yes, make sure you have a good internet connection.</string>
+    <string name="server_unavailable">The server is not set up yet, so this action can not be performed.</string>
+    <string name="submit">Submit</string>
+    <string name="version_label">Version: </string>
+</resources>

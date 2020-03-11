@@ -1,0 +1,43 @@
+"#settings_scroll_view": {
+    height: Ti.UI.FILL,
+    width: Ti.UI.FILL,
+    top: 0,
+    left: 0,
+    layout: 'vertical'
+}
+
+".enable-button": {
+    width: '95%',
+    left: '2.5%',
+    layout: 'horizontal'
+}
+
+".checked": {
+    backgroundColor: 'aqua'
+}
+
+".unchecked": {
+    backgroundColor: 'red'
+}
+
+"#app_data": {
+    top: 0,
+    left: 0,
+    width: Ti.UI.FILL,
+    height: Ti.UI.SIZE,
+    layout: 'horizontal'
+}
+
+"#version": {
+    top: 0,
+    left: 0,
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE
+}
+
+"#reset_data_button": {
+    top: 0,
+    right: 0,
+    width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE
+}

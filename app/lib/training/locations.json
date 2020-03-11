@@ -1,0 +1,61 @@
+[{
+	"id": 1,
+	"name": "Kanto Stadium",
+	"deck": "original",
+	"color": "#0000ff",
+	"textColor": "#000000"
+}, {
+	"id": 2,
+	"name": "Volcano",
+	"deck": "original",
+	"color": "#0000ff",
+	"textColor": "#000000"
+}, {
+    "id": 3,
+    "name": "Underwater",
+    "deck": "original",
+    "color": "#0000ff",
+    "textColor": "#000000"
+}, {
+    "id": 4,
+    "name": "Space",
+    "deck": "original",
+    "color": "#0000ff",
+    "textColor": "#000000"
+}, {
+    "id": 5,
+    "name": "The Moon",
+    "deck": "adult",
+    "color": "#0000ff",
+    "textColor": "#000000"
+}, {
+    "id": 6,
+    "name": "The Death Star",
+    "deck": "original",
+    "color": "#0000ff",
+    "textColor": "#000000"
+}, {
+    "id": 7,
+    "name": "The room you are in right now",
+    "deck": "original",
+    "color": "#0000ff",
+    "textColor": "#000000"
+}, {
+    "id": 8,
+    "name": "Hogwarts",
+    "deck": "adult",
+    "color": "#0000ff",
+    "textColor": "#000000"
+}, {
+    "id": 9,
+    "name": "Math class",
+    "deck": "adult",
+    "color": "#0000ff",
+    "textColor": "#000000"
+}, {
+    "id": 10,
+    "name": "Germany",
+    "deck": "original",
+    "color": "#0000ff",
+    "textColor": "#000000"
+}]

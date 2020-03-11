@@ -1,0 +1,28 @@
+<Alloy>
+	<Window id="play_game" class="container">
+		<View id="header_content" class="header-widget-container"/>
+		<View id="character_cards_view" class="card-selection-view">
+			<View id="char_left_card_view" class="unselected-character-card-view">
+				<Label id="char_left_card" class="card-label"/>
+			</View>
+			<View id="char_mid_card_view" class="unselected-character-card-view">
+				<Label id="char_mid_card" class="card-label"/>
+			</View>
+			<View id="char_right_card_view" class="unselected-character-card-view">
+				<Label id="char_right_card" class="card-label"/>
+			</View>
+		</View>
+		<View id="attribute_cards_view" class="card-selection-view">
+			<View id="attr_left_card_view" class="unselected-attribute-card-view">
+				<Label id="attr_left_card" class="card-label"/>
+			</View>
+			<View id="attr_mid_card_view" class="unselected-attribute-card-view">
+				<Label id="attr_mid_card" class="card-label"/>
+			</View>
+			<View id="attr_right_card_view" class="unselected-attribute-card-view">
+				<Label id="attr_right_card" class="card-label"/>
+			</View>
+		</View>
+		<Button id="submit_button" titleid="submit"/>
+	</Window>
+</Alloy>
